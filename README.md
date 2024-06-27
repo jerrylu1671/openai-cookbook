@@ -35,7 +35,7 @@ Most code examples are written in Python, though the concepts can be applied in 
 * Fine-tuning GPT-3
   * [Guide: best practices for fine-tuning GPT-3 to classify text](https://docs.google.com/document/d/1rqj7dkuvl7Byd5KQPUJRxc19BJt8wo0yHNwK84KfU3Q/edit)
   * [Fine-tuned classification](examples/Fine-tuned_classification.ipynb)
-* DALL-E
+* DALL-Ecccccccccccccccccccccccccccc
   * [How to generate and edit images with DALL-E](examples/dalle/Image_generations_edits_and_variations_with_DALL-E.ipynb)
 * Azure OpenAI (alternative API from Microsoft Azure)
   * [How to get completions from Azure OpenAI](examples/azure/completions.ipynb)
